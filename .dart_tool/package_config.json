@@ -1,0 +1,19 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "emojis",
+      "rootUri": "file:///C:/Users/gtxnn/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/emojis-0.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "SALCEDOMIDTERMS",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-11-12T13:50:20.712212Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.2"
+}
